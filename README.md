@@ -25,20 +25,15 @@ Instalación
 Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 
 Clona este repositorio:
-bash
-Copy code
 git clone https://github.com/tu-usuario/conversor-de-divisas.git
+
 Entra en el directorio del proyecto:
-bash
-Copy code
 cd conversor-de-divisas
+
 Instala las dependencias del proyecto:
-bash
-Copy code
 npm install
+
 Ejecuta la aplicación en el navegador:
-bash
-Copy code
 ionic serve
 
 ---
@@ -46,7 +41,8 @@ ionic serve
 Estructura del Proyecto
 El proyecto sigue la estructura estándar de Ionic:
 
-plaintext
+
+
 src/
 ├── app/
 │   ├── tab1/           # Lógica y diseño de la pestaña 1
