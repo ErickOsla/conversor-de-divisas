@@ -1,0 +1,7 @@
+{
+  "name": "Conversor De Divisas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
